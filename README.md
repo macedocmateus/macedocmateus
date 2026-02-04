@@ -20,9 +20,15 @@
 
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
+<img align="center" alt="reactjs" src="https://img.shields.io/badge/React-61dbsb?style=for-the-badge&logo=react&logoColor=white&color=blue" />
+
+<img align="center" alt="react native" src="https://img.shields.io/badge/React%20Native-61dbsb?style=for-the-badge&logo=react&logoColor=white&color=darkblue" />
+
+<img align="center" alt="nextjs" src="https://img.shields.io/badge/next.js-blue?style=for-the-badge&logo=next.js&logoColor=white&color=black" />
+
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
-<img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img align="center" alt="figma" src="https://img.shields.io/badge/figma-blue?style=for-the-badge&logo=figma&logoColor=black&color=white" />
 </div> <br>
 
 <p>
